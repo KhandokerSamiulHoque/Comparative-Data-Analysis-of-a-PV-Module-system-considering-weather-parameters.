@@ -1,0 +1,1 @@
+# Comparative-Data-Analysis-of-a-PV-Module-system-considering-weather-parameters.
